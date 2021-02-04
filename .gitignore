@@ -1,4 +1,4 @@
 gitignore_test.txt
 test_again.txt
-
-
+*.pdf
+*.png
